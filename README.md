@@ -1,6 +1,6 @@
 ### Hi there
 
-# My name is Henry Wilt \
+# My name is Henry Wilt 
 I am a Freshman at Ursinus College majoring in Computer Science. \
 I have a 4.0 gpa.\
 This sesemter I am taking CS274 which is a Computer Architecture class.\
