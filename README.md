@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there
 
+# My name is Henry Wilt \
+I am a Freshman at Ursinus College majoring in Computer Science. \
+I have a 4.0 gpa.\
+This sesemter I am taking CS274 which is a Computer Architecture class.\
+
+- Fun Fact: I am on the XC and Track teams at Ursinus.
 <!--
 **hwilt/hwilt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
