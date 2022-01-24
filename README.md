@@ -6,7 +6,7 @@ public class HenryWilt{
   public static void EDUCATION(){
     // Sophomore Year at Ursinus College
     // GPA 4.0
-    // Spring: CS274 Computer Architeture
+    // Spring: CS474, CS471, CS376, CS371
   }
   
   public static void LANGUAGES(){
