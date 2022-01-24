@@ -4,7 +4,7 @@ public class HenryWilt{
   public final FUN_FACT = "I am on the XC and Track team";
   
   public static void EDUCATION(){
-    // Freshman Year at Ursinus College
+    // Sophomore Year at Ursinus College
     // GPA 4.0
     // Spring: CS274 Computer Architeture
   }
@@ -13,7 +13,6 @@ public class HenryWilt{
     // C++
     // JAVA
     // PYTHON
-    // ASSEMBY
   }
   
   public static void main(String args[]){
