@@ -1,11 +1,11 @@
 ## Henry Wilt
 
-I am a Quality Assurance Intern at CRISP Shared Services since June 2022.
+I am a Junior Developer at CRISP Shared Services since June 2024.
 
 
 ### Academically
-Senior; Graduating in May 2024. <br>
-Many of my courses work is in it's own little repo on my page.
+Graduate of Ursinus College, go bears! <br>
+Many of my courses work is in it's own repo on my page.
 
 
 ### Links
